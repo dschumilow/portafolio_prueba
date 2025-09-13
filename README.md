@@ -6,22 +6,23 @@ portafolio de prueba
 #PROYECTO DE ML
 ##INDICE
 
--[Descripcion](#-descripcion)
--[Caracteristicas](#-caracteristicas)
--[Instalacion](#-instalacion)
--[Ejemplos](#-ejemplo)
--[Lisencia](#-lisencia)
+-[📖Descripcion](#-descripcion)
+-[🚀Caracteristicas](#-caracteristicas)
+-[🛠️Instalacion](#-instalacion)
+-[   Ejemplos](#-ejemplo)
+-[📝Lisencia](#-lisencia)
 
-## Descripcion 
+##📖 Descripcion
 Este es un trabajo introductoria de ML...
 
-## Caracterisitcas
+##🚀 Caracterisitcas
 -caracteristica 1
 -caractetistica 2
 
-## Instalacion
+##🛠️ Instalacion
 git init
 git add .
 git commit "primer commit"
 
+##📝 Lisencia
 
