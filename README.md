@@ -11,7 +11,7 @@ portafolio de prueba
 -[🚀Caracteristicas](#-caracteristicas)
 -[🛠️Instalacion](#-instalacion)
 -[   Ejemplos](#-ejemplo)
--[📝Lisencia](#-lisencia)
+-[📝Licencia](#-lisencia)
 
 ##📖 Descripcion
 Este es un trabajo introductoria de ML...
@@ -25,5 +25,5 @@ git init
 git add .
 git commit "primer commit"
 
-##📝 Lisencia
+##📝 Licencia
 
