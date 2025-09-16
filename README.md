@@ -8,7 +8,7 @@ portafolio de prueba
 ##INDICE
 
 -[📖Descripcion](#-descripcion)
--[🚀Caracteristicas](#-caracteristicas)
+-[🚀Proyectos](#-caracteristicas)
 -[🛠️Instalacion](#-instalacion)
 -[   Ejemplos](#-ejemplo)
 -[📝Licencia](#-lisencia)
@@ -16,7 +16,12 @@ portafolio de prueba
 ##📖 Descripcion
 Este es un trabajo introductoria de ML...
 
-##🚀 Caracterisitcas
+##🚀Proyectos
+-Proyecto 1
+-Proyecto2
+
+
+##🚀 Proyecto 2
 -caracteristica 1
 -caractetistica 2
 
