@@ -7,9 +7,9 @@ portafolio de prueba
 
 ##INDICE
 
--[📖Descripcion](#-descripcion)
--[🚀Proyectos](#-caracteristicas)
--[🛠️Instalacion](#-instalacion)
+-[📖Descripcion](#-Descripcion)
+-[🚀Proyectos](#-Proyectos)
+-[🛠️Instalacion](#-Instalacion)
 -[   Ejemplos](#-ejemplo)
 -[📝Licencia](#-lisencia)
 
@@ -17,7 +17,9 @@ portafolio de prueba
 Este es un trabajo introductoria de ML...
 
 ##🚀Proyectos
--Proyecto 1
+
+[Modelo simple ML🔗](https://github.com/dschumilow/portafolio_prueba/tree/master/m6/)
+
 -Proyecto2
 
 
